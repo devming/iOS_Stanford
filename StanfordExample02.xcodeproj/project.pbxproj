@@ -14,6 +14,7 @@
 		CAFD955F1F79FAC2005C5D45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAFD955E1F79FAC2005C5D45 /* Assets.xcassets */; };
 		CAFD95621F79FAC2005C5D45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAFD95601F79FAC2005C5D45 /* LaunchScreen.storyboard */; };
 		CAFD956D1F79FAC2005C5D45 /* StanfordExample02Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAFD956C1F79FAC2005C5D45 /* StanfordExample02Tests.swift */; };
+		CAFD95781F7B5AB4005C5D45 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAFD95771F7B5AB4005C5D45 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		CAFD95681F79FAC2005C5D45 /* StanfordExample02Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StanfordExample02Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAFD956C1F79FAC2005C5D45 /* StanfordExample02Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StanfordExample02Tests.swift; sourceTree = "<group>"; };
 		CAFD956E1F79FAC2005C5D45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAFD95771F7B5AB4005C5D45 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				CAFD95541F79FAC2005C5D45 /* AppDelegate.swift */,
 				CAFD95561F79FAC2005C5D45 /* ViewController.swift */,
 				CAFD95581F79FAC2005C5D45 /* Main.storyboard */,
+				CAFD95771F7B5AB4005C5D45 /* CalculatorBrain.swift */,
 				CAFD955E1F79FAC2005C5D45 /* Assets.xcassets */,
 				CAFD95601F79FAC2005C5D45 /* LaunchScreen.storyboard */,
 				CAFD95631F79FAC2005C5D45 /* Info.plist */,
@@ -206,6 +209,7 @@
 			files = (
 				CAFD955D1F79FAC2005C5D45 /* StanfordExample02.xcdatamodeld in Sources */,
 				CAFD95571F79FAC2005C5D45 /* ViewController.swift in Sources */,
+				CAFD95781F7B5AB4005C5D45 /* CalculatorBrain.swift in Sources */,
 				CAFD95551F79FAC2005C5D45 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
